@@ -378,7 +378,7 @@ The downside of this definition is that you were forced to defined
 There's another kind of variant in OCaml that supports this kind of programming:
 *polymorphic variants*. Polymorphic variants are just like variants, except:
 
-1. You don't have declare their type or constructors before using them.
+1. You don't have to declare their type or constructors before using them.
 
 2. There is no name for a polymorphic variant type. (So another name for this
    feature could have been "anonymous variants".)
